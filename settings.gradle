@@ -1,0 +1,5 @@
+rootProject.name = 'SosyallMedia'
+include 'AuthMicroservice'
+include 'UserMicroservice'
+include 'ConfigServer'
+
